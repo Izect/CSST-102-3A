@@ -1,1 +1,3 @@
-# Teano-Repository2[Add a heading.pdf](https://github.com/user-attachments/files/16829285/Add.a.heading.pdf)
+# Teano-Repository2 
+CSST 101
+LAB Act 1
