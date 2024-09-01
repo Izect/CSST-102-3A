@@ -12,3 +12,4 @@ Page 3
 ![Screenshot 2024-09-01 223808](https://github.com/user-attachments/assets/4735c8b4-3c9f-4b1d-8cad-80935702ae64)
 Page 4
 ![Screenshot 2024-09-01 223816](https://github.com/user-attachments/assets/288a5014-9191-43cb-84bc-63bb9c400eb9)
+[Lab Act1.pdf](https://github.com/user-attachments/files/16829332/Lab.Act1.pdf) File
