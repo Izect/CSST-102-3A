@@ -29,3 +29,4 @@ p9
 p10
 ![Screenshot 2024-09-02 180600](https://github.com/user-attachments/assets/5accf450-15d9-4ddf-89b0-6208e135165d)
 
+https://www.linkedin.com/in/aedran-gabriel-teano-76b38a257/
